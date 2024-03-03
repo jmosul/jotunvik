@@ -14,8 +14,8 @@ const FeatureList: FeatureItem[] = [
         img: require('./images/council_256.webp').default,
         description: (
             <>
-                Docusaurus was designed from the ground up to be easily installed and
-                used to get your website up and running quickly.
+                Jotunvik is run by Stewards of the Eternal Throne.
+                They see themselves as caretakers of Annam's creation, striving to maintain balance and prosperity.
             </>
         ),
     },
@@ -24,8 +24,9 @@ const FeatureList: FeatureItem[] = [
         img: require('./images/market_256.webp').default,
         description: (
             <>
-                Docusaurus was designed from the ground up to be easily installed and
-                used to get your website up and running quickly.
+                The economy reflects the diversity of its inhabitants and their sizes.
+                Goods and services are offered in a variety of scales, from colossal pieces of furniture
+                and garments for giants to finely crafted items suited for smaller folk.
             </>
         ),
     },
@@ -34,8 +35,9 @@ const FeatureList: FeatureItem[] = [
         img: require('./images/balcony_256.webp').default,
         description: (
             <>
-                Docusaurus was designed from the ground up to be easily installed and
-                used to get your website up and running quickly.
+                Despite their imposing presence and governing role, the giants foster a society where all races
+                are valued contributors. Giant-kin, often serve as intermediaries, enjoying a unique status that allows
+                them to navigate both worlds more freely.
             </>
         ),
     }

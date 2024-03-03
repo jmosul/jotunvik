@@ -4,7 +4,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
   title: 'Jotunvik',
-  tagline: 'For the big and small',
+  tagline: 'For the big and the small',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here

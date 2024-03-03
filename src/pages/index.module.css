@@ -9,7 +9,13 @@
   overflow: hidden;
   background-position: top center;
   background-size: cover;
-  color: var(--ifm-color-primary);
+  /*color: var(--ifm-color-primary);*/
+  min-height: 600px;
+}
+
+.heroContainer {
+  background-color: rgba(0,0,0,0.25);
+  padding-bottom: 15px;
 }
 
 .heroSubtitle {
