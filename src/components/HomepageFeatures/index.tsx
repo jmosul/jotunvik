@@ -24,8 +24,7 @@ const FeatureList: FeatureItem[] = [
         img: require('./images/market_256.webp').default,
         description: (
             <>
-                The economy reflects the diversity of its inhabitants and their sizes.
-                Goods and services are offered in a variety of scales, from colossal pieces of furniture
+                The economy reflects the diversity of its inhabitants and their sizes, from colossal pieces of furniture
                 and garments for giants to finely crafted items suited for smaller folk.
             </>
         ),
@@ -35,9 +34,8 @@ const FeatureList: FeatureItem[] = [
         img: require('./images/balcony_256.webp').default,
         description: (
             <>
-                Despite their imposing presence and governing role, the giants foster a society where all races
-                are valued contributors. Giant-kin, often serve as intermediaries, enjoying a unique status that allows
-                them to navigate both worlds more freely.
+                The giants foster a society where all races are valued contributors. Giant-kin, often serve as
+                intermediaries, a unique status that allows them to navigate both worlds freely.
             </>
         ),
     }
