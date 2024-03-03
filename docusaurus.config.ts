@@ -8,10 +8,10 @@ const config: Config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://your-docusaurus-site.example.com',
+  url: 'https://jmosul.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/jotunvik/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -72,7 +72,7 @@ const config: Config = {
         },
 //        {to: '/blog', label: 'Blog', position: 'left'},
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/jmosul/jotunvik',
           label: 'GitHub',
           position: 'right',
         },
@@ -82,10 +82,10 @@ const config: Config = {
       style: 'dark',
       links: [
         {
-          title: 'Docs',
+          title: 'Jotun',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Welcome',
               to: '/docs/intro',
             },
           ],
@@ -99,7 +99,7 @@ const config: Config = {
             // },
             {
               label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
+              href: 'https://github.com/jmosul/jotunvik',
             },
           ],
         },
