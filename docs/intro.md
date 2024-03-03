@@ -4,6 +4,10 @@ sidebar_position: 1
 
 # Welcome to Jotunvik
 
+<div className="image__center">
+![Jotunvik City](./assets/images/jotunvik.jpg)
+</div>
+
 A city of wonders nestled in the embrace of towering cliffs and expansive bays, where the majestic sea meets the rugged beauty of the land. Here, in this Norse-inspired metropolis, giants walk alongside the smaller folk, their presence as natural as the stone and sea. Jotunvik is not just a city; it is a testament to the possibility of harmony between beings of all sizes and origins.
 
 As you step into this vibrant world, you'll find yourself in a society governed by the Stewards of the Eternal Throne, a council of giants who believe themselves the benevolent guardians of the land. Their rule has fostered a city where architectural marvels defy the imagination, with grand halls and towering spires coexisting alongside cozy inns and bustling marketplaces, all designed to cater to citizens both large and small.
